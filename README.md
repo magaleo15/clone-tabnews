@@ -1,2 +1,3 @@
 # clone-tabnews
-Aprender a programar com um projeto completo
+
+Learn to code with a complete project
